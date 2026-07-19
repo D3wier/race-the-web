@@ -1,4 +1,4 @@
-race-the-web
+/race-the-web
 *.exe
 dist/
 vendor/
